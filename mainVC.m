@@ -1,9 +1,4 @@
-%Computer Vision 2019/20
-%Work 2 - Problem 3: Structure From Motion From Two Views
-%Authors:
-%Nº80998  Name: Pedro Miguel Menezes Ramalho
-%Nº85183  Name: Ricardo Miguel Diogo de Oliveira Chin
-%Nº93807  Name: Henrique Manuel Caldeira Pimentel Furtado
+%Computer Vision 2019/20 --- Pedro, Ricardo & Henrique
 
 clc
 clear all
